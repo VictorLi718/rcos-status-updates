@@ -8,6 +8,5 @@
 
 ## Anything Blocking?
 
-- Works good and keep working!
 
 ## Notes
